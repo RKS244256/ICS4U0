@@ -1,5 +1,3 @@
-import Sub_1.Publico;
-
 public class Introduction {
     public static void main(String[] args) {
         String x;
@@ -8,9 +6,7 @@ public class Introduction {
         x = "hello";
         System.out.printf("%s World\n", x);
 	    System.out.printf("The current number is %d\n", y);
-        y = Publico.increment(y);
         System.out.printf("The current number is %d\n", y);
-        y = Publico.add(5, y);
         System.out.printf("The current number is %d\n", y);
         y = (int) Math.pow(y, 5);
         System.out.printf("The current number is %d\n", y);
