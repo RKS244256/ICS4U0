@@ -24,7 +24,9 @@ public class Introduction {
         // char[] snum = String.valueOf(num).toCharArray();
         // int nnum = snum.length - n;
         // return Integer.parseInt((String.valueOf(snum[nnum])));
-        return num % (int) Math.pow(10, n);
+        int cutoff = num % (int) Math.pow(10, n);
+        int isolate = cutoff - (int) (cutoff % Math.pow(10, n-1));
+        return (int) (isolate / Math.pow(10, n-1));
 
     }
     public static int randInt (int x, int y){
@@ -39,7 +41,7 @@ public class Introduction {
         System.out.println(areaOfTriangle(1, 1));
         System.out.println(areaOfTriangle((float) Math.sqrt(2), 1, 1));
         secondsToMinutes(50);
-        System.out.println(lastNDigit(123456, 2));
+        System.out.println(lastNDigit(123456, 3));
         System.out.println(randInt(123, 200));
         System.out.println(max(123, 200, 25));
     }
