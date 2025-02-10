@@ -41,7 +41,7 @@ public class Introduction {
         System.out.println(areaOfTriangle(1, 1));
         System.out.println(areaOfTriangle((float) Math.sqrt(2), 1, 1));
         secondsToMinutes(50);
-        System.out.println(lastNDigit(123456, 3));
+        System.out.println(lastNDigit(123456, 2));
         System.out.println(randInt(123, 200));
         System.out.println(max(123, 200, 25));
     }
