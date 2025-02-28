@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WhileLoopsHW",
+            "request": "launch",
+            "mainClass": "Homework.WhileLoopsHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoops",
+            "request": "launch",
+            "mainClass": "Homework.WhileLoops",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoops",
+            "request": "launch",
+            "mainClass": "WhileLoops",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Decisions",
+            "request": "launch",
+            "mainClass": "Homework.Decisions",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "CreatingBooleans",
+            "request": "launch",
+            "mainClass": "CreatingBooleans",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Primitives",
+            "request": "launch",
+            "mainClass": "Primitives",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "StringsExtraHW",
+            "request": "launch",
+            "mainClass": "Homework.StringsExtraHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "StringHW",
+            "request": "launch",
+            "mainClass": "Homework.StringHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Homework.Practice",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Introduction",
+            "request": "launch",
+            "mainClass": "Homework.Introduction",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "IntroductionExtraPractice",
+            "request": "launch",
+            "mainClass": "Homework.IntroductionExtraPractice",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "Homework.UserInput",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Introduction(1)",
+            "request": "launch",
+            "mainClass": "Introduction",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Primer",
+            "request": "launch",
+            "mainClass": "Primer",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "UserInput(1)",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "ICS4UR_aebf595b"
+        }
+    ]
+}

@@ -1,17 +1,17 @@
 package Homework;
 
-class ExtraPractice {
+class IntroductionExtraPractice {
     // Write a method that takes in a radius and height and 
     //returns and volume of the cylinder
     // with that radius and height
     static int cylinderVolume(int radius, int height) {
-        return (int) (3.14*Math.pow(radius, 2)*height);
+        return (int) (Math.PI*Math.pow(radius, 2)*height);
     }
     // Write a method that takes in a radius and height and 
     //returns the surface area of the cylinder
     // with that radius and height
     static int cylinderSurfaceArea(int radius, int height) {
-        return (int) (2*3.14*radius*height)+(int) (2*3.14*Math.pow(radius, 2));
+        return (int) (2*Math.PI*radius*height)+(int) (2*Math.PI*Math.pow(radius, 2));
     }
 
     // Write a method that takes in a number of seconds 
