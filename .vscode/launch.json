@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoops",
+            "request": "launch",
+            "mainClass": "ForLoops",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopsExtraHW",
+            "request": "launch",
+            "mainClass": "Homework.WhileLoopsExtraHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
             "name": "WhileLoopsHW",
             "request": "launch",
             "mainClass": "Homework.WhileLoopsHW",

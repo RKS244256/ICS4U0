@@ -168,8 +168,8 @@ public class WhileLoopsHW {
             } else{
                 f.append("B");
             }
+            i++;
         }
-        System.out.println(f);
         return f;
     }
     static void numle(Scanner userIn){
@@ -185,7 +185,6 @@ public class WhileLoopsHW {
             }
             System.out.printf("%d tries left\n", 5-t);
             System.out.println(numleValidator(a, gu));
-            System.out.println("Test");
             t++;
         }
     }
