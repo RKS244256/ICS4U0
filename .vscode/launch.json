@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegExp",
+            "request": "launch",
+            "mainClass": "RegExp",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopsHW",
+            "request": "launch",
+            "mainClass": "Homework.ForLoopsHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
             "name": "ForLoops",
             "request": "launch",
             "mainClass": "ForLoops",
