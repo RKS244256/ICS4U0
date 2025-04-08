@@ -1,5 +1,4 @@
 package Homework;
-
 class StringHW{
     public static void main(String[] args) {
         System.out.println(domainFinder("ryansirisena@gmail.com"));

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "god",
+            "request": "launch",
+            "mainClass": "Homework.god",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopsHW",
+            "request": "launch",
+            "mainClass": "ForLoopsHW",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Review",
+            "request": "launch",
+            "mainClass": "Homework.Review",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
             "name": "RegExp",
             "request": "launch",
             "mainClass": "RegExp",

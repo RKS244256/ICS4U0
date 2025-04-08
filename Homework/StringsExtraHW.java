@@ -1,5 +1,4 @@
 package Homework;
-
 class StringsExtraHW {
     // 1. Write a method countConsonants that takes in a String word and returns the
     // number of consonants (take into account lower and upper case)

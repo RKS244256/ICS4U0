@@ -1,5 +1,4 @@
 package Homework;
-
 public class ForLoopsHW {
     static String encode(String s){
         StringBuilder o = new StringBuilder();

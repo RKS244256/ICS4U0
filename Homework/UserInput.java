@@ -1,5 +1,4 @@
 package Homework;
-
 import java.util.Scanner;
 
 class UserInput {

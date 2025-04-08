@@ -1,5 +1,4 @@
 package Homework;
-
 class Introduction {
     static void greeting(String name) {
         System.out.printf("Welcome back to school %s!\n", name);
