@@ -17,6 +17,7 @@ public class Introduction {
         System.out.println(y);
         System.out.println(MathLesson.findArea(y, 5));
         MathLesson.printArea(y, 5);
+        
     }
 }
 

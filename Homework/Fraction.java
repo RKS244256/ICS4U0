@@ -3,7 +3,7 @@ public class Fraction {
     private int num;
     private int den;
 
-    Fraction(int num, int den){
+    public Fraction(int num, int den){
         if (num == 0 && den != 0){
             this.num = 0;
             this.den = 1;
@@ -65,7 +65,7 @@ public class Fraction {
     }
 
     // add
-    Fraction add(Fraction another){
+    public Fraction add(Fraction another){
         // a/b + c/d
 
         // a * d + b * c / b *d
@@ -74,7 +74,7 @@ public class Fraction {
     }
 
     // subtract
-    Fraction subtract(Fraction another){
+    public Fraction subtract(Fraction another){
         return new Fraction(num * another.den - den * another.num, den * another.den);
     }
 

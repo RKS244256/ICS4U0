@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Static",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Scanners",
+            "request": "launch",
+            "mainClass": "Scanners",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Homework.Binary",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
             "name": "god",
             "request": "launch",
             "mainClass": "Homework.god",

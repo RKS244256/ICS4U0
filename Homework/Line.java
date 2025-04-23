@@ -32,9 +32,6 @@ class Line {
         return String.format("y = %sx + %s", slope.toString(), yInt.toString());
     }
 
-
-
-
    
     public static void main(String[] args) {
        Line l = new Line(new Fraction(1,2), new Fraction(-1, 5));
