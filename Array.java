@@ -1,4 +1,4 @@
-public class Arrays {
+public class Array {
     public static void main(String[] args) {
         int[] n_arr = {1,2,3,4,5};
         String[] uWu_magic = new String[5];
