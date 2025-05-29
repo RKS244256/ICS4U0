@@ -1,3 +1,4 @@
+package Homework;
 import java.util.Arrays;
 import java.util.Scanner;
 class Array{
@@ -114,15 +115,15 @@ class Array{
 		String[] strings = {"uwu", "Kawaii", "AHHHHHHHHHH", "Hehe", "OwO", "Nya~~~", "D0k!"};
 		double[] doubles = {90.0, 91.0, 92.0, 96.0, 96.0, 99.0};
 		System.out.println("Hello World");
-		//System.out.println(sum(nums));
-		//System.out.println(Arrays.toString(genBwdArray(userIn)));
-		//System.out.println(largestString(strings));
-		//System.out.println(average(doubles));
-		//System.out.println(Arrays.toString(evenNums(nums)));
-		//System.out.println(countNum(nums, 5));
-		//breakUp(userIn);
-		//System.out.println(arrMax(nums));
-		//System.out.println(isSorted(nums));
+		System.out.println(sum(nums));
+		System.out.println(Arrays.toString(genBwdArray(userIn)));
+		System.out.println(largestString(strings));
+		System.out.println(average(doubles));
+		System.out.println(Arrays.toString(evenNums(nums)));
+		System.out.println(countNum(nums, 5));
+		breakUp(userIn);
+		System.out.println(arrMax(nums));
+		System.out.println(isSorted(nums));
 		userIn.close();
 	}
 }

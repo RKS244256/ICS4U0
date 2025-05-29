@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CrimeRate",
+            "request": "launch",
+            "mainClass": "Homework.CrimeRate",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Files",
+            "request": "launch",
+            "mainClass": "Files",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Container_Review",
+            "request": "launch",
+            "mainClass": "Homework.Container_Review",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListsEH",
+            "request": "launch",
+            "mainClass": "Homework.ArrayListsEH",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "Homework.ArrayLists",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
+            "name": "Array_List",
+            "request": "launch",
+            "mainClass": "Array_List",
+            "projectName": "ICS4UR_aebf595b"
+        },
+        {
+            "type": "java",
             "name": "Static",
             "request": "launch",
             "mainClass": "Static",
